@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Jungle\\Documents\\EpicProject\\ParticleCrowdTutorial\\ParticleCrowd\\Source\\ParticleCrowd\\ParticleCrowd.Build.cs",
+		"C:\\Users\\Jungle\\Documents\\EpicProject\\ParticleCrowdTutorial\\ParticleCrowd\\Source\\ParticleCrowd.Target.cs",
+		"C:\\Users\\Jungle\\Documents\\EpicProject\\ParticleCrowdTutorial\\ParticleCrowd\\Source\\ParticleCrowdEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

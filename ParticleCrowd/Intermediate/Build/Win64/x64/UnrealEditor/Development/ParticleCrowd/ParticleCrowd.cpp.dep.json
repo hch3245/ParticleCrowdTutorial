@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jungle\\documents\\epicproject\\particlecrowdtutorial\\particlecrowd\\source\\particlecrowd\\particlecrowd.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jungle\\documents\\epicproject\\particlecrowdtutorial\\particlecrowd\\intermediate\\build\\win64\\x64\\particlecrowdeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jungle\\documents\\epicproject\\particlecrowdtutorial\\particlecrowd\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\particlecrowd\\definitions.particlecrowd.h",
+            "c:\\users\\jungle\\documents\\epicproject\\particlecrowdtutorial\\particlecrowd\\source\\particlecrowd\\particlecrowd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

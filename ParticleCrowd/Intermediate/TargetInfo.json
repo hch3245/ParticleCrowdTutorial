@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ParticleCrowd",
+			"Path": "..\\Source\\ParticleCrowd.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ParticleCrowdEditor",
+			"Path": "..\\Source\\ParticleCrowdEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
