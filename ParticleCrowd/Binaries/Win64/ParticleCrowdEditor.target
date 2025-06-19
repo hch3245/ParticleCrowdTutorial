@@ -5698,6 +5698,26 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AnimToTexture/Binaries/Win64/UnrealEditor-AnimToTexture.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AnimToTexture/Binaries/Win64/UnrealEditor-AnimToTexture.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AnimToTexture/Binaries/Win64/UnrealEditor-AnimToTextureEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AnimToTexture/Binaries/Win64/UnrealEditor-AnimToTextureEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AnimToTexture/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Binaries/Win64/UnrealEditor-SkeletalMeshModelingTools.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -33236,6 +33256,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AnimToTexture/AnimToTexture.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Animation/SkeletalMeshModelingTools/SkeletalMeshModelingTools.uplugin",
 			"Type": "UFS"
 		},
@@ -33696,6 +33720,7 @@
 		"AndroidMedia",
 		"AndroidMoviePlayer",
 		"AndroidPermission",
+		"AnimToTexture",
 		"AnimationData",
 		"AnimationModifierLibrary",
 		"AnimationSharing",
